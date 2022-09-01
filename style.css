@@ -1,35 +1,11 @@
-*{
+#color-blue{
+    color: blue;
+}
+
+.color-red{
     color: red;
 }
 
-
-p{
-    color : green;
-}
-
-
-.titulo-h2 {
-    color: blue;
-}*/
-
-
- #element-for-modify{
-    color: rgb(207, 38, 60);
- }
- 
-
-[rancio=si]{
-    color: blueviolet;
-}
-
-h2 p{
-    color: red;
-}
-h2 b{
-    color: aquamarine;
-}
-
-
-b:hover{
-    color: blue;
+h1{
+    color: grey !important;
 }
