@@ -1,14 +1,44 @@
 * {
     font-family: 'Lobster', cursive;
     font-weight: 100;
-    font-size: 40px;
+    font-size: 20px;
 }
 
-body{
-    background: black;
+
+
+.contenedor div{
+   width: 50%;
+   float: right;
 }
 
-div{
+.primario{
+    background: red;
+}
+
+.secundario{
+    background: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cont{
     margin: auto;
     margin-top: 50px;
     width: 320px;
@@ -19,23 +49,13 @@ div{
     
 }
 
-div:hover > img{
-    width:290px ;
-    position: relative;
-    top: 0px;
-    left: 0px;
-    outline: 2px solid blue;
-    
-}
 
-img{
+.cont img{
     width:290px ;
     position: relative;
     top: 260px;
     left: 240px;
     outline: 2px solid blue;
-    transition: all 1.2s;
-    
 }
 
 
