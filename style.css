@@ -8,9 +8,9 @@
 
 .caja1{
     height: 200px ;
-    width: 200px;
+    width: 300px;
     background: slateblue;
-    transition:all 1s,border 0.5s; 
+    transition:height 10s,width 1s;
     border: 3px solid red;
     text-align: center;
 }
